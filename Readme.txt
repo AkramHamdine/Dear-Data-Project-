@@ -1,4 +1,4 @@
-Dear Data Project - Textual Description 
+Dear data project for university.
 
 
 GitHub project: [https://github.com/AkramHamdine/Dear-Data-Project-/tree/main/Dear_Data_Project]
