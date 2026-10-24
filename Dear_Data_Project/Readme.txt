@@ -8,4 +8,4 @@ My project explores my study habits by collecting data about my study sessions. 
 
 
 Progress:
-I have collected 37 study-session records so far. I am working on visualising this data in Processing, using circle sizes to represent study duration, colours to represent distractions, vertical positions to represent the time of day, outlines to represent locations, and numbers inside the circles to show focus levels.
+I have collected 50 study-session records so far. I am working on visualising this data in Processing, using circle sizes to represent study duration, colours to represent distractions, vertical positions to represent the time of day, outlines to represent locations, and numbers inside the circles to show focus levels.
