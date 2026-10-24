@@ -4,7 +4,7 @@
 // Color of Circle = Distraction Type
 // Vertical Position of Circle = Time of Day
 // Circle Outline = Location
-// Number in Circle = Focus Level/////Akram
+// Number in Circle = Focus Level
 
 
 String[] study_habits;
