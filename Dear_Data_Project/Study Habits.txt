@@ -52,3 +52,39 @@ SESSION  DATE    DAY  LOCATION      SUBJECT                 HOURS  DISTRACTIONS 
 48,      20 NOV, FRI, HOME,         SYSTEM ARCHITECTURE,    4,     FOOD,         MORNING AND AFTERNOON,     2
 49,      21 NOV, SAT, UNI LIBRARY,  CREATIVE CODING,        3,     PEOPLE,       AFTERNOON,                 1
 50,      22 NOV, SUN, STARBUCKS,    MATHS FOR COMPUTING,    6,     NONE,         MORNING AND EVENING,       5
+51,      23 NOV, 
+52,      24 NOV,
+53,      25 NOV,
+54,      26 NOV,
+55,      27 NOV, 
+56,      28 NOV,
+57,      29 NOV,
+58,      30 NOV, 
+59,      1 DEC,
+60,      2 DEC,
+61,      3 DEC,
+62,      4 DEC, 
+63,      5 DEC,
+64,      6 DEC,
+65,      7 DEC,
+66,      8 DEC,
+67,      9 DEC,
+68,      
+69,
+70,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
