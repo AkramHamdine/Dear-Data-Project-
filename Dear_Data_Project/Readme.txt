@@ -1,11 +1,10 @@
-Topic and Progress for Dear Data Project
+Topic and Progress for Dear Data Project:
 
 GitHub project: [https://github.com/AkramHamdine/Dear-Data-Project-/tree/main/Dear_Data_Project]
 
 
 Topic:
 My project explores my study habits by collecting data about my study sessions. I record the day of the session, the subject I study, the duration of each subject , the location, the time of day, the types of distractions I experience, and my focus level out of 5.
-
 
 Progress:
 I have collected 70 study-session records so far. I am working on visualising this data in Processing, using circle sizes to represent study duration, colours to represent distractions, vertical positions to represent the time of day, outlines to represent locations, and numbers inside the circles to show focus levels.
