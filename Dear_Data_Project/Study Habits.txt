@@ -50,18 +50,18 @@ SESSION  DAY  LOCATION      SUBJECT                 HOURS  DISTRACTIONS  TIME OF
 46,      WED, STARBUCKS,    JAVA PROGRAMMING,       2,     FATIGUE,      MORNING,                   2
 47,      THU, GAILS,        DATABASES,              1,     NONE,         EVENING,                   4
 48,      FRI, HOME,         SYSTEM ARCHITECTURE,    4,     FOOD,         MORNING AND AFTERNOON,     2
-49,      SAT, UNI LIBRARY,  CREATIVE CODING,        3,     PEOPLE,       AFTERNOON,                 1
+49,      SAT, HOME,         CREATIVE CODING,        3,     PEOPLE,       AFTERNOON,                 1
 50,      SUN, STARBUCKS,    MATHS FOR COMPUTING,    6,     NONE,         MORNING AND EVENING,       5
-51,      MON,
-52,      TUE,
-53,      WED,
-54,      THU,
-55,      FRI,
-56,      SAT,
-57,      SUN,
-58,      MON,
-59,      TUE,
-60,      WED,
+51,      MON, UNI LIBRARY,  MATHS FOR COMPUTING,    2,     NOISE,        EVENING,                   3
+52,      TUE, GAILS,        CREATIVE CODING,        5,     FOOD,         AFTERNOON AND EVENING,     2
+53,      WED, HOME,         DATABASES,              5,     PHONE,        MORNING AND EVENING,       1
+54,      THU, STARBUCKS,    SYSTEM ARCHITECTURE,    4,     NONE,         MORNING AND AFTERNOON,     5
+55,      FRI, UNI LIBRARY,  JAVA PROGRAMMING        3,     FATIGUE,      AFTERNOON,                 3
+56,      SAT, GAILS,        SYSTEM ARCHITECTURE,    6,     FATIGUE,      AFTERNOON AND EVENING,     3
+57,      SUN, HOME,         MATHS FOR COMPUTING,    5,     PHONE,        MORNING AND AFTERNOON,     1
+58,      MON, UNI LIBRARY,  MATHS FOR COMPUTING,    1,     NONE,         AFTERNOON,                 5
+59,      TUE, UNI LIBRARY,  DATABASES,              2,     NONE,         AFTERNOON,                 5
+60,      WED, STARBUCKS,    CREATIVE CODING,        4,     NOISE,        MORNING,                   3
 61,      THU,
 62,      FRI,
 63,      SAT,
