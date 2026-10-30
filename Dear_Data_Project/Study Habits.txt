@@ -62,16 +62,16 @@ SESSION  DAY  LOCATION      SUBJECT                 HOURS  DISTRACTIONS  TIME OF
 58,      MON, UNI LIBRARY,  MATHS FOR COMPUTING,    1,     NONE,         AFTERNOON,                 5
 59,      TUE, UNI LIBRARY,  DATABASES,              2,     NONE,         AFTERNOON,                 5
 60,      WED, STARBUCKS,    CREATIVE CODING,        4,     NOISE,        MORNING,                   3
-61,      THU,
-62,      FRI,
-63,      SAT,
-64,      SUN,
-65,      MON,
-66,      TUE,
-67,      WED,
-68,      THU,
-69,      FRI,
-70,      SAT,
+61,      THU, HOME,         JAVA PROGRAMMING,       4,     PHONE,        MORNING AND EVENING,       2
+62,      FRI, UNI LIBRARY,  SYSTEM ARCHITECTURE,    3,     FOOD,         AFTERNOON,                 2  
+63,      SAT, GAILS,        SYSTEM ARCHITECTURE,    6,     PEOPLE,       AFTERNOON AND EVENING,     4   
+64,      SUN, STARBUCKS,    DATABASES,              5,     FOOD,         MORNING AND AFTERNOON,     3
+65,      MON, UNI LIBRARY,  MATHS FOR COMPUTING,    2,     NONE,         AFTERNOON,                 5
+66,      TUE, HOME,         MATHS FOR COMPUTING,    3,     FATIGUE,      EVENING,                   1
+67,      WED, UNI LIBRARY,  DATABASES,              4,     NOISE,        AFTERNOON AND EVENING,     2
+68,      THU, HOME,         CREATIVE CODING,        1,     FATIGUE,      EVENING,                   1
+69,      FRI, UNI LIBRARY,  JAVA PROGRAMMING,       5,     PHONE,        AFTERNOON AND EVENING,     3
+70,      SAT, GAILS,        SYSTEM ARCHITECTURE,    5,     NONE,         AFTERNOON AND EVENING,     4
 
 
 
