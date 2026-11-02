@@ -1,6 +1,6 @@
 SESSION, DAY, LOCATION, SUBJECT, DURATION (HOURS), DISTRACTIONS, TIME OF DAY, FOCUS LEVEL (/5) 
 
-SESSION  DAY  LOCATION      SUBJECT                 HOURS  DISTRACTIONS  TIME OF DAY               FOCUS
+SESSION  DAY  LOCATION      SUBJECT                 HOURS  DISTRACTIONS  TIME OF DAY               FOCUS/5
 -------  ---  ------------  ----------------------  -----  ------------  ------------------------  -----
 1,       SUN, UNI LIBRARY,  MATHS FOR COMPUTING,    4,     NOISE,        AFTERNOON,                 3
 2,       MON, GAILS,        CREATIVE CODING,        2,     PEOPLE,       EVENING,                   4
