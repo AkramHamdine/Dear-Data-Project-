@@ -72,48 +72,33 @@ SESSION  DAY  LOCATION      SUBJECT                 HOURS  DISTRACTIONS  TIME OF
 68,      THU, HOME,         CREATIVE CODING,        1,     FATIGUE,      EVENING,                   1
 69,      FRI, UNI LIBRARY,  JAVA PROGRAMMING,       5,     PHONE,        AFTERNOON AND EVENING,     3
 70,      SAT, GAILS,        SYSTEM ARCHITECTURE,    5,     NONE,         AFTERNOON AND EVENING,     4
-71,      SUN
-72,      MON
-73,      TUE
-74,      WED
-75,      THU
-76,      FRI
-77,      SAT
-78,      SUN
-79,      MON
-80,      TUE
-81,      WED
-82,      THU
-83,      FRI
-84,      SAT
-85,      SUN
-86,      MON
-87,      TUE
-88,      WED
-89,      THU
-90,      FRI
-91,      SAT
-92,      SUN
-93,      MON
-94,      TUE
-95,      WED
-96,      THU
-97,      FRI
-98,      SAT
-99,      SUN
-100,     MON
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+71,      SUN, STARBUCKS,    MATHS FOR COMPUTING,    6,     PEOPLE,       MORNING AND AFTERNOON,     3
+72,      MON, UNI LIBRARY,  CREATIVE CODING,        2,     NONE,         AFTERNOON,                 5       
+73,      TUE, UNI LIBRARY,  JAVA PROGRAMMING,       3,     FATIGUE,      EVENING,                   4
+74,      WED, HOME,         MATHS FOR COMPUTING,    4,     PHONE,        MORNING,                   3
+75,      THU, GAILS,        DATABASES,              6,     FOOD,         AFTERNOON AND EVENING,     1    
+76,      FRI, UNI LIBRARY,  SYSTEM ARCHITECTURE,    3,     NOISE,        AFTERNOON,                 3  
+77,      SAT, STARBUCKS,    DATABASES,              4,     FOOD,         MORNING AND AFTERNOON,     4             
+78,      SUN, HOME,         MATHS FOR COMPUTING,    5,     NONE,         MORNING AND EVENING,       5
+79,      MON, UNI LIBRARY,  JAVA PROGRAMMING,       4,     FATIGUE,      AFTERNOON,                 2         
+80,      TUE, GAILS,        CREATIVE CODING,        1,     NONE,         AFTERNOON,                 5
+81,      WED, HOME,         JAVA PROGRAMMING,       3,     PHONE,        MORNING,                   4
+82,      THU, UNI LIBRARY,  DATABASES,              5,     PEOPLE,       MORNING AND AFTERNOON,     3
+83,      FRI, UNI LIBRARY,  SYSTEM ARCHITECTURE,    3,     NOISE,        AFTERNOON,                 4
+84,      SAT, HOME,         CREATIVE CODING,        6,     FATIGUE,      AFTERNOON AND EVENING,     1
+85,      SUN, STARBUCKS,    MATHS FOR COMPUTING,    5,     FOOD,         MORNING AND AFTERNOON,     3
+86,      MON, UNI LIBRARY,  JAVA PROGRAMMING,       1,     NONE,         EVENING,                   5
+87,      TUE, UNI LIBRARY,  CREATIVE CODING,        3,     NOISE,        MORNING,                   4
+88,      WED, HOME,         MATHS FOR COMPUTING,    4,     PHONE,        AFTERNOON,                 4
+89,      THU, STARBUCKS,    DATABASES,              5,     PEOPLE,       MORNING AND AFTERNOON,     3
+90,      FRI, UNI LIBRARY,  DATABASES,              2,     NONE,         MORNING,                   5
+91,      SAT, STARBUCKS,    SYSTEM ARCHITECTURE,    6,     FOOD,         AFTERNOON AND EVENING,     3
+92,      SUN, HOME,         MATHS FOR COMPUTING,    5,     FATIGUE,      AFTERNOON AND EVENING,     2
+93,      MON, HOME,         CREATIVE CODING,        2,     NONE,         EVENING,                   5
+94,      TUE, UNI LIBRARY,  JAVA PROGRAMMING,       4,     NOISE,        AFTERNOON,                 3
+95,      WED, STARBUCKS,    DATABASES,              4,     PEOPLE,       MORNING,                   4            
+96,      THU, HOME,         DATABASES,              5,     PHONE,        MORNING AND AFTERNOON,     1
+97,      FRI, UNI LIBRARY,  SYSTEM ARCHITECTURE,    3,     NONE,         AFTERNOON,                 5
+98,      SAT, GAILS,        SYSTEM ARCHITECTURE,    6,     FOOD,         MORNING AND AFTERNOON,     2
+99,      SUN, STARBUCKS,    MATHS FOR COMPUTING,    5,     FATIGUE,      AFTERNOON, AND EVENING,    3     
+100,     MON, UNI LIBRARY,  JAVA PROGRAMMING,       1,     NONE,         AFTERNOON,                 5
