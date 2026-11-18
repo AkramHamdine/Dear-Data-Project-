@@ -1,37 +1,43 @@
 // Study Habits:
 
+// Vertical Position of Circle = Session Number
+// Horizontal Position of Circle = Time of Day
 // Size of Circle = Duration of Revision
 // Color of Circle = Distraction Type
-// Vertical Position of Circle = Time of Day
 // Circle Outline = Location
 // Number in Circle = Focus Level
+// Label = Subject
 
 
-String[] study_habits;
-String subject;
-String time_of_day;
-color colour;
-float duration;
-float circleSize = duration * 15;
+class StudySession
+{ 
+  int sessionNumber;
+  String day;
+  String location;
+  String subject;
+  float duration;
+  String distraction;
+  String time_of_day;
+  int focus;
+  
+  
+  float x, y;
+  float circleSize;
 
-
-void setup()
-{
-  size(1000, 800);
-
-  study_habits = loadStrings("Study Habits.txt");
-
-  println(study_habits);
-}
-
-void draw()
-{
-  background(255);
-
-  fill(100, 150, 255);
-  ellipse(200, 300, 80, 80);
-
-  if (subject.equals("Maths for Computing"))
+  StudySession(int s, String d, String l, String sub, float dur, String dis, String time, int f)
   {
+    sessionNumber = s;
+    day = d;
+    location = l;
+    subject = sub;
+    duration = dur;
+    distraction = dis;
+    time_of_day = time;
+    focus = f;
+  }
+
+  void draw()
+  {
+    circleSize = 18 + duration * 5;
   }
 }
