@@ -36,8 +36,8 @@ class StudySession
     focus = f;
   }
 
-  void draw()
+  void displayCircle()
   {
-    circleSize = 18 + duration * 5;
+    
   }
 }
